@@ -1,6 +1,0 @@
-{
-    "version":"1.7.0",
-    "firmware_url":"https://kevinckc0918.github.io/esp32-smartdashboard-ota/firmware/stable/v1.7.0.bin",
-    "notes":"新增 OTA Channel",
-    "force":false
-}
