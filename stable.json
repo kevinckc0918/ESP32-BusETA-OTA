@@ -1,0 +1,6 @@
+{
+    "version":"1.7.2",
+    "firmware_url":"https://kevinckc0918.github.io/esp32-smartdashboard-ota/firmware/stable/v1.7.2.bin",
+    "notes":"市場項目小數位自訂, Web UI 增加 NVS Reset, Factory Reset",
+    "force":false
+}
