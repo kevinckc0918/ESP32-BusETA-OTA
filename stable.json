@@ -1,5 +1,5 @@
 {
-    "version":"1.8.0",
+    "version":"1.8.1",
     "firmware_url":"https://kevinckc0918.github.io/ESP32-BusETA-OTA/firmware/ESP32_HKBusETA_v1.8.0.ino.bin",
     "notes":"支持OTA更新",
     "force":false
